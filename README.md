@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá! Eu sou Adavilson 👋
 
-<!--
-**adavilsonlemeskasato/adavilsonlemeskasato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Sistemas para Internet no IFMT  
+💻 Desenvolvo aplicações web e APIs  
+🌱 Atualmente estudando Java, Spring Boot, Python e Django
 
-Here are some ideas to get you started:
+## Projetos em destaque
+- **Sistema de folha para restaurantes** — controle de funcionários e folha de pagamento.
+- **Sistema de gestão de restaurante** — controlar os gastos de funcionários em uma micro empresa.
+- **Projeto acadêmico** — aplicações desenvolvidas durante minha formação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias
+Java • Spring Boot • Python • Django • SQL
+
+## Contato
+- [LinkedIn](https://www.linkedin.com/in/adavilson-lemes-292479184/?isSelfProfile=true)
