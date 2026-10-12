@@ -1,4 +1,4 @@
-# Olá! Eu sou Adavilson 👋
+# 👨‍💻Adavilson Lemes
 
 🎓 Estudante de Sistemas para Internet no IFMT  
 💻 Desenvolvo aplicações web e APIs  
@@ -110,6 +110,4 @@
   />
 <br/>
 <br/>
-## 
-## Contato
-- [LinkedIn](https://www.linkedin.com/in/adavilson-lemes-292479184/?isSelfProfile=true)
+
